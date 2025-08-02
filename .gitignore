@@ -1,0 +1,5 @@
+.venv/*
+config.py
+*.png
+*.csv
+__pycache__/
